@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @isthisnamegood
+- 👋 Hi, I’m Jarvy Lazan
+- Currently working at Physiotec
+
+- Most contributions you'll see here are anonymous. They are commits(I can't import pull requests or code reviews) from my work. I imported them using this handy  <a href="https://github.com/miromannino/Contributions-Importer-For-Github">tool</a> as we use Bitbucket for version control.
 
 <!---
 isthisnamegood/isthisnamegood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
