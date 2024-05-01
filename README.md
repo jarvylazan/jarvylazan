@@ -9,7 +9,7 @@ Connect with me on <a href="https://www.linkedin.com/in/jarvy-lazan-22445021b">L
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvylazan&theme=dark&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarvylazan&theme=dark&layout=pie&langs_count=20)
 
 <!---
 isthisnamegood/isthisnamegood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
